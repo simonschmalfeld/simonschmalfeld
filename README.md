@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simonschmalfeld
-- 💻 I use HTML/CSS/JS, React and Gatsby for web design and development
+- 💻 I use HTML/CSS/JS, React, GraphQL and Gatsby for web design and development
 - 📱 I also build mobile apps in React Native
 - 🌱 I’m currently learning how to create interactive experiences using JavaScript and WebGL
 - 📸 Check out my [Instagram profile](https://www.instagram.com/realbrogrammer/) for more creative stuff
