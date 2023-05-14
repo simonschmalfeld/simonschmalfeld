@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simonschmalfeld
-- 💻 I use HTML/CSS/JS, React, GraphQL and Gatsby for web design and development
-- 📱 I also build mobile apps in React Native
-- 🌱 I’m currently learning more about creative coding using JavaScript and WebGL
+- 📱 I mostly build mobile apps in React Native and Ionic
+- 💻 I also like to do web development with NextJS or Gatsby
+- 🎧 I’m currently learning about creative coding and audio processing in JavaScript and Swift
 
 <!---
 simonschmalfeld/simonschmalfeld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
