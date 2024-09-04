@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonschmalfeld
-- 📱 I mostly build mobile apps in React Native, Ionic and Swift
-- 💻 I also like to do web development with NextJS or Gatsby
+- 💻 I mostly do web development with NextJS and Supabase
+- 📱 I also like to build mobile apps in React Native
 - 🎧 I’m currently learning about creative coding and audio processing in JavaScript
 
 <!---
