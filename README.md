@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simonschmalfeld
-- 💻 I mostly do web development with NextJS and Supabase
+- 💻 I mostly do web development with NextJS
 - 📱 I also like to build mobile apps in React Native
 - 🎧 I’m currently learning about creative coding and audio processing in JavaScript
 
