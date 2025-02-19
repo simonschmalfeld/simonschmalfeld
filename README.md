@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @simonschmalfeld
-- 💻 I mostly do web development with NextJS
-- 📱 I also like to build mobile apps in React Native
-- 🎧 I’m currently learning about creative coding and audio processing in JavaScript
+- 🔮 Full Stack, Generative AI, Speech, Vision, Cloud, UX
+- 💻 React, Next.js, GSAP, TypeScript, Python, C++, Processing, Figma
 
 <!---
 simonschmalfeld/simonschmalfeld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
